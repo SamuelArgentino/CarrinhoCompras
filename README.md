@@ -4,7 +4,7 @@
 
 GitHub Pages: https://samuelargentino.github.io/CarrinhoCompras/
 
-Vercel: https://challenge7days-mobile-first.vercel.app/
+Vercel: https://carrinho-compras-eight.vercel.app/
 
 ## Ferramentas utilizadas:
 
